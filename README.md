@@ -1,0 +1,1 @@
+## the notebook is aimed at the prediction of car prices from olx (an e commerce website) using three variation of Linear Regression for the final project of regression category in IBM machine learming professional certificate
